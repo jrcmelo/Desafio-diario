@@ -1,9 +1,5 @@
 ## 🏅 Desafio Diário
 
-<h1>
-    <img src="assets/img1.png" />
-</h1>
-
 <br>
 
 ## 📎 Sumario
