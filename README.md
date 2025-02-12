@@ -8,7 +8,6 @@
 
 ## 📎 Sumario
 - 📕 Sobre
-- 🛠️ Executando projeto
 - ⚙ Tecnologias Utilizadas
 - 🙍‍♂️ Autor
 
