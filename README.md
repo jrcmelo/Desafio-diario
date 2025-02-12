@@ -26,5 +26,5 @@ Esse é uma proposta para voltar a prática de programação, passei um bom temp
 | [<img src="https://avatars.githubusercontent.com/u/49295037?v=4" width=115><br><sub>John Robert</sub>](https://github.com/jrcmelo) |
 | :---: |
 
-<br>
+<br> 
 
