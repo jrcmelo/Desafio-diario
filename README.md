@@ -17,7 +17,7 @@ Esse é uma proposta para voltar a prática de programação, passei um bom temp
 
 ## ⚙ Tecnologias Utilizadas
 
-<img src="assets/py.png" alt="PYTHON" />
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
 
 <br>
 
