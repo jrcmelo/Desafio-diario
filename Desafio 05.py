@@ -61,17 +61,26 @@ produtos = {
 
 def pesquisa (max, min):
     i = 0
+    nmprodutos = 0
     chaves = list(produtos.keys())
 
-    while i < len(chaves):
+    print("——————————————————")
+    print("")
+
+    while i < max:
         if i < max and i > min:
             chave = chaves[i]
             valor = produtos[chave]
             print(f"{chave}, Valor: {valor:.2f}")
+            nmprodutos+=1
         i+=1
 
-    
+    print("")
+    print("——————————————————")
+    print(f"{nmprodutos} produtos encontrados")
+    print("")    
 
+print("——————————————————")    
 min = float(input('Valor minimo: '))
 max = float(input('Valor maximo: '))
 
