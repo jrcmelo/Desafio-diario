@@ -1,4 +1,4 @@
-## 🏅 Desafio Diário
+## 🏅 Desafio Diário [TEMPORARIAMENTE INTERROMPIDO]
 
 <br>
 
